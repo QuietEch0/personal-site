@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Eric Hang</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<h1>Eric Hang</h1>
+	<a class="link" title="Email Address" href="mailto:eric@quietecho.io">eric@quietecho.io</a>
+	<div>
+		<a class="link" title="LinkedIn Profile" href="https://www.linkedin.com/in/eric-hang-14111a108">LinkedIn</a>
+		<a class="link" title="Github Profile" href="https://github.com/QuietEch0">Github</a>
+		<a class="link" title="Medium Profile" href="https://medium.com/@eric.hang">Medium</a>
+	</div>
+	<div>
+		<a class="link" title="Utilities" href="/utilities/">Utilities</a>
+	</div>
+</body>
+</html>

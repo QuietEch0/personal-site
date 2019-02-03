@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Utilities</title>
+	<base href="quietecho.io/utilities/">
+</head>
+<body>
+	<h1>Utilities</h1>
+	<a title="Home" href="../">Home</a>
+	<section><a title="Password Generator" href="passwords">Password Generator</a><p>(<a title="Passwords API" href="passwords#server-side">API</a>)</p></section>
+</body>
+</html>
