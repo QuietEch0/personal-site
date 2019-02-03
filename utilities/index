@@ -8,7 +8,6 @@
 </head>
 <body>
 	<h1>Utilities</h1>
-	<a title="Home" href="../">Home</a>
 	<ul>
 		<li><a href="passwords" title="Password Generator">Password Generator</a></li>
 	</ul>
