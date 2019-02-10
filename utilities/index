@@ -4,11 +4,15 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Utilities</title>
+	<link rel="stylesheet" href="../css/utilities.css">
 </head>
 <body>
 	<h1>Utilities</h1>
 	<ul>
 		<li><a href="passwords" title="Password Generator">Password Generator</a></li>
+		<li><a href="https://quietecho.io/demo/" title="Pet Store demo">Pet Store demo</a></li>
 	</ul>
+	<footer>
+		<p>By <a href="https://quietecho.io">Eric Hang</a>, <script>document.write(new Date().getFullYear())</script></p>
 </body>
 </html>
