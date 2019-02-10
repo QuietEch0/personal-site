@@ -21,6 +21,7 @@ h1 {
 	text-align: center;
 	background-color: #232F3E;
 	color: inherit;
+	letter-spacing: 0.1rem;
 }
 
 ul {
@@ -31,7 +32,7 @@ ul {
 
 ul li {
 	display: inline;
-	word-spacing: 0.8rem;
+	word-spacing: 0.3rem;
 }
 
 ul li:not(:last-child)::after {
