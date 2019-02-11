@@ -10,6 +10,7 @@ body {
 	
 	font-family: sans-serif;
 	font-size: calc(16px + 1vmax);
+	color: #F0F8FF;
 }
 
 body::-webkit-scrollbar {
@@ -20,31 +21,34 @@ nav {
 	top: 0;
 	position: fixed;
 	width: 100%;
-	line-height: 1;
 	overflow: hidden;
+	word-spacing: 1rem;
+	padding-left: 1rem;
+	line-height: 1;
 	
 	background-color: #232f3e;
 }
 
 nav a {
-	color: #F0F8FF;
+	color: inherit;
 	font-style: normal;
 	text-decoration: none;
 	font-size: 1.75rem;
-	padding: 2rem;
 }
 
 section {
-	padding-top: 1px;
+	padding-top: 0.5rem;
+	padding-left: 1rem;
 }
 
 #client-side {
-	background-color: white;
+	background-color: #384351;
+	color: inherit;
 	height: 100vh;
 }
 
 #server-side {
 	background-color: black;
-	color: white;
+	color: inherit;
 	height: 100vh;
 }
