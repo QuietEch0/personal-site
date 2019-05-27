@@ -8,14 +8,11 @@
 </head>
 <body>
 	<h1>Eric Hang</h1>
-	<a class="link" title="Email Address" href="mailto:eric@quietecho.io">eric@quietecho.io</a>
+	<a title="Email Address" href="mailto:eric@quietecho.io">eric@quietecho.io</a>
 	<div>
-		<a class="link" title="LinkedIn Profile" href="https://www.linkedin.com/in/eric-hang-14111a108">LinkedIn</a>
-		<a class="link" title="Github Profile" href="https://github.com/QuietEch0">Github</a>
-		<a class="link" title="Medium Profile" href="https://medium.com/@eric.hang">Medium</a>
-	</div>
-	<div>
-		<a class="link" title="Utilities" href="/utilities/">Utilities</a>
+		<a title="LinkedIn Profile" href="https://www.linkedin.com/in/eric-hang-14111a108">LinkedIn</a>
+		<a title="Github Profile" href="https://github.com/QuietEch0">Github</a>
+		<a title="Medium Profile" href="https://medium.com/@eric.hang">Medium</a>
 	</div>
 </body>
 </html>
